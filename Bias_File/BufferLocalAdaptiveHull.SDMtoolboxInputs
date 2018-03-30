@@ -1,0 +1,12 @@
+2018-03-30 17:43:43.288000
+Input Parameters 
+E:\Documents\publicaciones\Ecuador_Bats\Bias_File/TEMP_ilUlii/*.shp
+Occurence Table: E:\Documents\publicaciones\Ecuador_Bats\SRA\Bats_spatially_rarified_locs_bias.shp 
+Species: Species
+Latitude: LATITUDE 
+Longitude: LONGITUDE 
+Buffer Distance: 3 Kilometers 
+Alpha Value: 3
+Climate Data: E:\Documents\publicaciones\Ecuador_Bats\ASCII_F\wc2.0_bio_30s_04.tif.asc 
+Out Folder: E:\Documents\publicaciones\Ecuador_Bats\Bias_File
+Rasters input: 
